@@ -1,0 +1,7 @@
+{
+  "name": "bug",
+  "type": "angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
